@@ -5,6 +5,7 @@ class Pez():
         self.__tamanyo=tamanyo
 
    #get y set 
+    
     def getColor(self):
         return self.__color
     
@@ -29,5 +30,5 @@ class Pez():
         print("El pez duerme")
 
 pececito1=Pez("rojo","pequeño")
-print(pececito1.getColor())
+print(pececito1.getColor)
 pececito1.nadar()
