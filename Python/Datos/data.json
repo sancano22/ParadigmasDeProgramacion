@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre":"Pepita",
+        "apellidos":"Perez",
+        "genero":"F",
+        "fechaNacimiento":"12/02/2002 00:00:00",
+        "email": "pepito@gmail.com",
+        "carrera":"Informática"
+    },
+    {
+        "id":2,
+        "nombre":"Pepe",
+        "apellidos":"Perez",
+        "genero":"M",
+        "fechaNacimiento":"12/02/2002 00:00:00",
+        "email": "pepito@gmail.com",
+        "carrera":"Ciencia de datos"
+    },
+    {
+        "id":3,
+        "nombre":"Pepe",
+        "apellidos":"Perez",
+        "genero":"M",
+        "fechaNacimiento":"12/02/2002 00:00:00",
+        "email": "pepito@gmail.com",
+        "carrera":"Informática"
+    }
+
+]
