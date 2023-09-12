@@ -1,0 +1,121 @@
+[{
+   "id": 1,
+    "nombres" :"Juan",
+    "apellidos":"Pérez",
+    "genero":"M",
+    "fechaNacimiento":"12/05/2001",
+    "rut":"12121212-1",
+    "carrera":"Civil Informática",
+    "anyoAcademico":"2",
+    "region":"Valparaíso",
+    "comuna":"Viña del Mar"
+},{
+    "id": 2,
+     "nombres" :"Martina",
+     "apellidos":"Pérez",
+     "genero":"F",
+     "fechaNacimiento":"12/05/2001",
+     "rut":"12121212-1",
+     "carrera":"Informática",
+     "anyoAcademico":"1",
+     "region":"Santiago",
+     "comuna":"Renca"
+ },
+ {
+    "id": 3,
+     "nombres" :"Martin",
+     "apellidos":"Riquelme",
+     "genero":"M",
+     "fechaNacimiento":"12/05/2003",
+     "rut":"12121212-1",
+     "carrera":"Ciencia de Datos",
+     "anyoAcademico":"3",
+     "region":"Santiago",
+     "comuna":"Independencia"
+ },
+ {
+    "id": 4,
+     "nombres" :"Diego",
+     "apellidos":"Pérez",
+     "genero":"M",
+     "fechaNacimiento":"12/05/2001",
+     "rut":"12121212-1",
+     "carrera":"Informática",
+     "anyoAcademico":"2",
+     "region":"Valparaíso",
+     "comuna":"La ligua"
+ },
+ {
+    "id": 5,
+     "nombres" :"Diego",
+     "apellidos":"Pérez",
+     "genero":"M",
+     "fechaNacimiento":"12/05/2001",
+     "rut":"12121212-1",
+     "carrera":"Informática",
+     "anyoAcademico":"2",
+     "region":"Valparaíso",
+     "comuna":"Nogales"
+ },
+ {
+    "id": 6,
+     "nombres" :"Diego",
+     "apellidos":"Pérez",
+     "genero":"M",
+     "fechaNacimiento":"12/05/2001",
+     "rut":"12121212-1",
+     "carrera":"Informática",
+     "anyoAcademico":"2",
+     "region":"Valparaíso",
+     "comuna":"Los Andres"
+ },
+ {
+    "id": 7,
+     "nombres" :"Diego",
+     "apellidos":"Pérez",
+     "genero":"M",
+     "fechaNacimiento":"12/05/2001",
+     "rut":"12121212-1",
+     "carrera":"Informática",
+     "anyoAcademico":"2",
+     "region":"Valparaíso",
+     "comuna":"San Felipe"
+ },
+ {
+    "id": 8,
+     "nombres" :"Diego",
+     "apellidos":"Pérez",
+     "genero":"M",
+     "fechaNacimiento":"12/05/2001",
+     "rut":"12121212-1",
+     "carrera":"Informática",
+     "anyoAcademico":"2",
+     "region":"Valparaíso",
+     "comuna":"Concón"
+ },
+ {
+    "id": 9,
+     "nombres" :"Diego",
+     "apellidos":"Pérez",
+     "genero":"M",
+     "fechaNacimiento":"12/05/2001",
+     "rut":"12121212-1",
+     "carrera":"Informática",
+     "anyoAcademico":"2",
+     "region":"Valparaíso",
+     "comuna":"Quilpué"
+ },
+ {
+    "id": 10,
+     "nombres" :"Diego",
+     "apellidos":"Pérez",
+     "genero":"M",
+     "fechaNacimiento":"12/05/2001",
+     "rut":"12121212-1",
+     "carrera":"Informática",
+     "anyoAcademico":"2",
+     "region":"Valparaíso",
+     "comuna":"Villa Alemana"
+ }
+
+]
