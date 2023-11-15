@@ -1,0 +1,2 @@
+py -m install Flask
+py -m install CORS
